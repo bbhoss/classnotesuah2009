@@ -1,0 +1,139 @@
+Chapter 1:
+
+    Statistics - collecting analyzing presenting and interpreting
+    data.
+
+    Data - Facts and figured collected and analyzed
+
+    Data Set - Data colected for a particular study
+
+    Quantitative Data - How much or how many {
+          Interval: Difference between two numbers/datum {Ex: SAT
+          Scores, Weather Temperatures}, Ratio: Comparing a statistic
+          to another by terms of magitudes more or less, etc.{Ex: Twice as far, as
+          long, etc}
+
+    Qualitative Data -  Name or label {
+          Nominal: Name, 
+          Ordinal: Name, but rank is included and important.}
+
+    Cross Sectional: Data collected at the same point in time. {Ex:
+    Looking at several stock prices at one point}
+
+    Time Series: Data looked at over a period of time. {Ex: Health
+    studies, GOOG's price over YTD etc}
+
+    Population vs. Sample: Population is everyone being studied, where
+    sample is a certain group or subset of the population.  The bigger
+    the sample, the more accurate your predictions will be.
+
+    Examples of Data:{
+
+    pg.20-21 #10
+          a. Age: Quantitative (Ratio)
+          b. Gender: Qualitative (Nominal)
+          c. When did you start reading WSJ: Qualitative (Ordinal)
+          d. Employment time: Quantitative (Ratio)
+          e. What type of vehicle would you consider purchasing next:
+    Qualitative (Nominal)
+
+    #11
+          a. Annual Sales: Quantitative (Ratio)
+          b. Soft drink size: Qualitative (Ordinal)
+          c. Employee Classification: Qualitative (Nominal)
+          d. Earnings per share: Quantitative (Ratio)
+          e. Method of payment: Qualitative (Nominal)
+
+    }
+
+Chapter 2:
+
+   Frequencies:
+
+        Frequency Distribution: Tabular summary of data.
+
+        Relative Frequency: Relative frequency of a class. {Ex: TV
+        Shows: }
+        {Formula: Frequency of a Class / Number of classes}
+
+        Qualitative Data:
+              Bar Graph: 
+                  Ex: #5 of pg 32
+                  "Bars do not touch"
+                  Horizontal axis: Labels for a class
+                  Vertical axis: Frequency of occurence
+                  Tips:
+                      Be consistent with axis labeling (2,4,6,8,etc
+                  instead of 2,6,9,18)  Also make sure labels make sense.
+                  
+
+              #5
+                Class:   Frequency: Relative Frequency:
+                Brown    : 7        .14
+                Smith    : 12       .24
+                Davis    : 6        .12
+                Johnson  : 10       .20
+                Williams : 8        .14
+                Jones : 7
+                ------------
+                Total: 50 = n       1.0
+	Quantitative Data:
+	       3 Steps to define class
+	       	 1. Determine # of nonoverlapping classes
+		 2. Determine width of the class
+		 3. Determine the class limits
+
+		    Class | Frequency | Relative Frequency | Cumulative Frequency | Cumulative Relative Frequency
+		    12-14 | 2	      |	.05	 	   | 2			  | .05
+		    15-17 | 8	      |	.20		   | 10 (2+8)		  | .25
+		    18-20 | 11	      |	.275		   | 21 (10+11)		  | .525
+		    21-23 | 10	      | .250		   | 31			  | .775
+		    24-26 | 9	      | .225		   | 40			  | 1.000
+		    Total | 40	      |	1.000		   
+
+	      Histogram (Not Cumulative)
+	      ==========
+		- Can use relative frequency data (or frequency)
+		- Place variable of interest on horizontal axis
+		- Vertical - Frequency
+		- All rectangles touch!
+		
+	     Ogive (Cumulative ONLY!)
+	     ======
+		- Cumulative values
+		- Keep hash-marks consistent
+
+pg. 42
+    19.
+	a. Class | Frequency | Relative Frequency
+	    1-5	 | 12	     | .6
+	    6-10 | 3	     | .15
+	    11-15| 2	     | .1
+	    16-20| 1	     | .05
+	    21-25| 1	     | .05
+	    26-30| 0	     | 0
+	    31-34| 1	     | .05
+	    
+	b. 
+
+
+Homework: Quiz Next Monday; Chapter 1: pg 19-23: (5,6,8,9,15,19)
+
+
+5.  
+    a. 5
+    b. Quantitative {Price, CD Capacity, Tape Decks} Qualitative {Sound Quality, FM Tuning}
+    c. 3
+    d. 70%
+    e. 40%
+6.  
+    a. Quantitative
+    b. Qualitative
+    c. Quantitative
+    d. Quantitative
+    e. Qualitative
+8.  
+    a. 1005
+    b. Qualitative
+    c. Percentages
+    d. 291.45
