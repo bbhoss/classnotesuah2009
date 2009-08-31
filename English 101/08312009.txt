@@ -1,0 +1,15 @@
+Day | Action
+============
+1     Choose Topic
+2     Thesis statement and supporting points
+3     Gather evidence for supporting points
+4     Clustering
+5     Review and revise your cluster
+6     Type your first draft {Ordinal}
+      	   a. Body
+	   b. Conclusion
+	   c. Introduction
+7     Global proof-reading (Ensure things are in the right place, check order of supporting points (make sure they are in the same order as the introduction)
+8     Sentence proof-reading and print
+9     Disaster prevention day (Contingency time)
+10    Turn In
