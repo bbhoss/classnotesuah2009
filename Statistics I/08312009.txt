@@ -1,0 +1,92 @@
+August 31, 2009
+
+-->Chapter 2.3
+
+Stem and Leaf Display
+======================
+  - Displays all data points
+
+    5 | 7 8
+    6 | 4 5 8
+    7 | 0 2 2 5 5 6 8
+    8 | 0 2 3 5
+
+Cross Tabulations
+=================
+  - Tabular summary for two variables
+
+ (x,y)|_1___2___|
+    A |	5   0	| 5
+    B |	11  2	| 13
+    C |	2   10	| 12
+      |-------------
+        18  12	| 30
+
+Row Percentages
+=======
+For each cell, what percent of that ROW's total does that cell account for.
+      |_1___2_
+    A | 100 0
+    B | 85  15
+    C | 16.7 83.3
+
+Column Percentages
+==================
+For each cell, what percent of that COLUMN's total does that cell
+account for
+
+
+Chapter 3
+============
+
+  Location
+  ---------
+  X with a line over it - if from a sample
+  \mu - If from a population sample
+
+   Median
+   --------
+     - value in the middle
+     - ascending order
+       (1) If odd number of observations middle value
+       (2) If even, average the two middle numbers
+
+   Mode
+   --------
+    - value that occurs the most
+    - CAN HAVE MORE THAN ONE!  If there are two that have the name
+   number of occurences
+
+   Percentiles
+   -----------
+   ORDER EXTREMELY IMPORTANT
+   Steps to compute:
+     1. Arrange data in asecending order
+     2. Use (i=n(p/100)) to find a position:
+     	3. 
+	   15 20 25 25 27 28 30 34 (Values in ascending order)
+	   We want the 20th percentile:
+	   i = 8(20/100) = 1.6 (Always round up) 
+	   Rounded up to 2 (20 is the 20th percentile since it's the
+   second position in the asceding sorted data)
+   	  
+	   We want the 25th percentile:
+	      i=8(25/100)=2
+	      GO TO POSITION 2+3 TAKE AVG!! (20+25)/2 = 22.5.  That is
+	      the 25th percentile
+
+   Quartiles
+   ---------
+     - Divides data into 4 parts (each has 25% of the observations)
+         Q1 - Same thing as 25th percentile
+	 Q2 - Same thing as 50th percentile
+	 Q3 - Same thing as 75th percentile
+	 Q4 - Doesn't really exist
+
+     - IQR (Interquartile range) = Q3 - Q1
+       25th = 22.5
+       75th = 29
+       IQR = 29 - 22.5 = 6.5
+
+    Chapter 2 HW: 23, 37A
+    Chapter 3 HW: 4, 6, 12
