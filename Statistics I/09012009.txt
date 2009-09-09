@@ -1,0 +1,27 @@
+Variance
+=========
+  Population
+    - /sigma^2 = (Summation of i=1 to n (Xi - /mu)^2)/N (/mu is population mean, N is population size)
+  Sample
+    - S^2 = (Summation of i=1 to n (Xi - X-bar)^2)/n-1 (Sample size minus 1)
+
+City  	Daily Rates  Xi - X-bar	 Squared
+----	-----------  ------	 -------
+Boston	43	     5		 25
+Atlanta	35	     -3		 9
+Miami	34	     -4		 16
+NY	58	     20		 400
+Orlando	30	     -8		 64
+Pittsburgh 30	     -8		 64
+DC	36 	     -2		 4
+		     	  Total: 582
+	Mean: $38 (of daily rate)
+	Variance: 582/6 = 97
+	StdDev: $9.85
+
+
+Empirical Rule: 68% of data is within 1 standard deviation
+	  	95% is within 2
+		Almost all is within 3
+
+Homework: pg 96: 14, 17	
